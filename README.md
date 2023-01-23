@@ -4,9 +4,7 @@
     Hi, my name is Pedro Paulo 
   </h1>
   
-<!--   <p>
-    I'm Front-End Developer 🤠👍
-  </p> -->
+/n
   
 </div>
 
