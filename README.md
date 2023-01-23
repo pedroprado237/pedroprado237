@@ -1,11 +1,11 @@
 <div>
   
   <h1>
-    Olá, me chamo Pedro Paulo 🐉
+    Hi, my name is Pedro Paulo.
   </h1>
   
   <p>
-    Sou Desenvolvedor Front End.
+    I'm Front-End Developer 🤠👍
   </p>
   
 </div>
