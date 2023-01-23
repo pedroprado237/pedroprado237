@@ -1,12 +1,12 @@
 <div>
   
   <h1>
-    Hi, my name is Pedro Paulo.
+    Hi, my name is Pedro Paulo :neckbeard:
   </h1>
   
-  <p>
+<!--   <p>
     I'm Front-End Developer 🤠👍
-  </p>
+  </p> -->
   
 </div>
 
