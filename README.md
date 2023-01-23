@@ -1,7 +1,7 @@
 <div>
   
   <h1>
-    Hi, my name is Pedro Paulo :neckbeard:
+    Hi, my name is Pedro Paulo 😶‍🌫️
   </h1>
   
 <!--   <p>
