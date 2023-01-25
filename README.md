@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/pedroprado237">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroprado237&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroprado237&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroprado237&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroprado237&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
