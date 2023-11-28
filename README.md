@@ -10,6 +10,6 @@
 
 <div align="center">
   <a href="https://github.com/pedroprado237">
-    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroprado237&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroprado237&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
